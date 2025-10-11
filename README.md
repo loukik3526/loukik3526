@@ -3,7 +3,7 @@
 
 <img align="right" alt="Error 69" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRxYjUwbmtjdjg2OHlwaXludXlxMXhvZWttbzBkYnJtMWZla2hjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
-- 🔭 I’m currently working on **Flutter Games**
+- 🔭 I’m currently working on **Flutter games**
 
 - 🌱 I’m currently learning **Flutter, Django backend, and Flame engine**
 
@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **loukiklanghi21@gamil.com**
 
-- ⚡ Fun fact **Code by day, game by night—powered by Flutter, caffeine, and a swarm of Git commits**
+- 📄 Know about my experiences [https://loukik3526.github.io/resume/](https://loukik3526.github.io/resume/)
+
+- ⚡ Fun fact **Dart’s hot reload is faster than my coffee breaks, and Python’s indentation saves more lives than a superhero cape!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
