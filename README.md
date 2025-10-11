@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter Games**
 
-- 🌱 I’m currently learning **Flutter,Django**
+- 🌱 I’m currently learning **Flutter,Django,Flame**
 
 - 💬 Ask me about **Flutter,Dart,Flame**
 
