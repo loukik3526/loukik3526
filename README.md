@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **loukiklanghi21@gamil.com**
 
+- ⚡ Fun fact **Code by day, game by night—powered by Flutter, caffeine, and a swarm of Git commits**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/loukiklanghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loukiklanghi" height="30" width="40" /></a>
