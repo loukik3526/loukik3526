@@ -1,13 +1,13 @@
-<h1 align="center">I'm Loukik But you can call me Loki</h1>
+<h1 align="center">I'm Loukik, your Flutter Craftsman</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<img align="right" alt="Error 69" width="400" src="[https://pin.it/2QuDooi3I](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRxYjUwbmtjdjg2OHlwaXludXlxMXhvZWttbzBkYnJtMWZla2hjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif)">
+<img align="right" alt="Error 69" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRxYjUwbmtjdjg2OHlwaXludXlxMXhvZWttbzBkYnJtMWZla2hjYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 - 🔭 I’m currently working on **Flutter Games**
 
-- 🌱 I’m currently learning **Flutter,Django,Flame**
+- 🌱 I’m currently learning **Flutter, Django backend, and Flame engine**
 
-- 💬 Ask me about **Flutter,Dart,Flame**
+- 💬 Ask me about **Mobile apps, Games, and code that almost works**
 
 - 📫 How to reach me **loukiklanghi21@gamil.com**
 
