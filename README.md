@@ -1,7 +1,7 @@
 <h1 align="center">I'm Loukik But you can call me Loki</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Flutter Game**
+- 🔭 I’m currently working on **Flutter Games**
 
 - 🌱 I’m currently learning **Flutter,Django**
 
