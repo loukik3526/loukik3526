@@ -7,7 +7,7 @@
 * 🌱 I'm currently learning **Flutter, Django backend, and Flame engine**
 * 💬 Ask me about **Mobile apps, Games, and code that almost works**
 * 📫 Reach me at **[loukiklanghi21@gmail.com](mailto:loukiklanghi21@gmail.com)**
-* 📄 Portfolio: https://loukik3526.github.io/resume/
+* 📄 Portfolio: [https://loukik3526.github.io/resume/](https://loukik3526.github.io/resume/)
 * ⚡ Fun fact: Dart's hot reload is faster than my coffee breaks ☕⚡
 
 <br clear="both"/>
